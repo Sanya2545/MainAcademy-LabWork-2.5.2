@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<images>
+  <image>
+    <filename>001.jpg</filename>
+    <description>gallery</description>
+  </image>
+  <image>
+    <filename>002.jpg</filename>
+    <description>shop</description>
+  </image>
+  <image>
+    <filename>003.jpg</filename>
+    <description>security</description>
+  </image>
+  <image>
+    <filename>004.jpg</filename>
+    <description>school</description>
+  </image>
+  <image>
+    <filename>005.JPG</filename>
+    <description>testing loading</description>
+  </image>
+  <image>
+    <filename>coffee - Copy.bmp</filename>
+    <description>coffee</description>
+  </image>
+</images>

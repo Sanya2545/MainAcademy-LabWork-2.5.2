@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<images>
+  <image>
+    <filename>001.jpg</filename>
+    <description>gallery</description>
+  </image>
+  <image>
+    <filename>002.jpg</filename>
+    <description>shop</description>
+  </image>
+  <image>
+    <filename>003.jpg</filename>
+    <description>security</description>
+  </image>
+  <image>
+    <filename>004.jpg</filename>
+    <description>school</description>
+  </image>
+  <image>
+    <filename>005.jpg</filename>
+    <description>design</description>
+  </image>
+  <image>
+    <filename>006.jpg</filename>
+    <description>restoran</description>
+  </image>
+  <image>
+    <filename>007.jpg</filename>
+    <description>hotel</description>
+  </image>
+</images>

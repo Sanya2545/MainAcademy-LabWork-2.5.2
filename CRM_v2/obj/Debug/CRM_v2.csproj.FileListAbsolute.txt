@@ -1,0 +1,773 @@
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.dll.config
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.pdb
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Antlr3.Runtime.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Newtonsoft.Json.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Owin.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Helpers.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Optimization.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Providers.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Razor.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.Deployment.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.Razor.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\WebGrease.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Optimization.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Antlr3.Runtime.pdb
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Newtonsoft.Json.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Razor.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.Deployment.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Webpages.Razor.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Helpers.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.dll
+c:\users\msibook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\CRM_v2.dll.config
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\CRM_v2.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\CRM_v2.pdb
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Antlr3.Runtime.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\EntityFramework.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Newtonsoft.Json.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Owin.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Helpers.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Http.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Optimization.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Providers.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Razor.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.Razor.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\WebGrease.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Optimization.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Antlr3.Runtime.pdb
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Newtonsoft.Json.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Razor.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Webpages.Razor.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Helpers.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Http.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\EntityFramework.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\obj\Debug\CRM_v2.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\backup_1\CRM_v2\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Providers.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.Mvc.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.xml
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.Mvc.xml
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\MsiBook\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.ApplicationServices.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.DynamicData.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Entity.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Extensions.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Services.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Xml.dll
+C:\Users\MsiBook\documents\visual studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.dll.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Antlr3.Runtime.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Newtonsoft.Json.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.ApplicationServices.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.DynamicData.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Entity.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Extensions.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Helpers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Optimization.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Providers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Services.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Xml.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\WebGrease.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Antlr3.Runtime.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Newtonsoft.Json.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\PagedList.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Helpers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Optimization.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Providers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb
+D:\Projects\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+D:\Projects\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csprojResolveAssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\CRM_v2.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\AspNet.ScriptManager.jQuery.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Web.Infrastructure.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Newtonsoft.Json.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.ApplicationServices.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.DynamicData.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Entity.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Extensions.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Services.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Xml.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\WebGrease.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Antlr3.Runtime.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\EntityFramework.SqlServer.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Google.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\PagedList.Mvc.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Net.Http.Formatting.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Helpers.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Http.WebHost.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Mvc.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Optimization.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Providers.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.Razor.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Deployment.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\System.Web.WebPages.Razor.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.InitialCreateContext.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.Migrations.CtrlActStatCreateContext.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.GenerateResource.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.csproj.CopyComplete
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.2\(begin)Lab_5.2\CRM_v2_gallery_v1\CRM_v2_gallery\CRM_v2_photogallery\CRM_v2\obj\Debug\CRM_v2.pdb

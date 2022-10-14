@@ -1,0 +1,95 @@
+﻿@model CRM_v2.Models.AspNetUsers_shadow
+
+@{
+    ViewBag.Title = "Деталі";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AКористувачі</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isClient)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isClient)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isStaff)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AprClient)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AprClient)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AprStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AprStaff)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Checked)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Checked)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CheckDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CheckDate)
+        </dd>
+
+    </dl>
+</div>
+<div>
+<p>
+    @Html.ActionLink("Редагувати", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Назад до списка", "Index")
+</p>
+</div>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRM_authModelStoreContainer" CdmEntityContainer="CRM_authEntities">
+    <EntitySetMapping Name="AspNetUsers_shadow">
+      <EntityTypeMapping TypeName="CRM_authModel.AspNetUsers_shadow">
+        <MappingFragment StoreEntitySet="AspNetUsers_shadow">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="SecurityStamp" ColumnName="SecurityStamp" />
+          <ScalarProperty Name="Discriminator" ColumnName="Discriminator" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="isClient" ColumnName="isClient" />
+          <ScalarProperty Name="isStaff" ColumnName="isStaff" />
+          <ScalarProperty Name="AprClient" ColumnName="AprClient" />
+          <ScalarProperty Name="AprStaff" ColumnName="AprStaff" />
+          <ScalarProperty Name="PersId" ColumnName="PersId" />
+          <ScalarProperty Name="Checked" ColumnName="Checked" />
+          <ScalarProperty Name="CheckDate" ColumnName="CheckDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

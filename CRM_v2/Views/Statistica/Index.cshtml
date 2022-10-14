@@ -1,0 +1,68 @@
+﻿@using CRM_v2.Helpers;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model PagedList.IPagedList<CRM_v2.Models.UsrStat>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Statistics";
+}
+
+<h2  >Events statistics</h2>
+
+<p>
+    @Html.ActionLink("New", "Create") |
+    @Html.ActionLink("Back to Administration", "Index", "Adminka")
+
+</p>
+<link href="@Url.Content(
+    "~/Content/CRM_scss/Style_autocomplete.css")"
+      rel="Stylesheet" type="text/css" />
+@using (Html.BeginForm("Index", "Statistica", FormMethod.Get))
+{
+    <script type="text/javascript">
+        $(function () {
+            $("input#Search").val= '@ViewBag.CurrentFilter';
+            var autocompleteUrl = '@Url.Action("Find")';
+            $("input#Search").autocomplete({
+                source: autocompleteUrl,
+                minLength: 2,
+                select: function (event, ui) {
+                    //alert("Selected " + ui.item.UserName + " " + ui.item.LastAction);
+                }
+            });
+        });
+    </script>
+    <h2>Search</h2>
+
+    <div class="row" >
+        <div class="col-md-6">
+           
+            <label for="Search" class="col-md-3">User   </label>
+
+            <input name="SearchString" type="text" id="Search" class="col-md-3" />
+            <span style="padding-left:15px; padding-top:0px;">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </span>
+            
+        </div>
+    </div>
+}
+@Html.Partial("Search")
+
+<div>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page,  currentFilter = ViewBag.CurrentFilter }))
+
+
+   
+</div>
+
+
+
+
+
+

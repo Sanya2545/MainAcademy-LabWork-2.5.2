@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRM_authModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AspNetUsers_shadow">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+    <Property Name="PasswordHash" Type="nvarchar(max)" />
+    <Property Name="SecurityStamp" Type="nvarchar(max)" />
+    <Property Name="Discriminator" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" />
+    <Property Name="isClient" Type="bit" />
+    <Property Name="isStaff" Type="bit" />
+    <Property Name="AprClient" Type="bit" />
+    <Property Name="AprStaff" Type="bit" />
+    <Property Name="PersId" Type="int" />
+    <Property Name="Checked" Type="bit" />
+    <Property Name="CheckDate" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="CRM_authModelStoreContainer">
+    <EntitySet Name="AspNetUsers_shadow" EntityType="Self.AspNetUsers_shadow" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

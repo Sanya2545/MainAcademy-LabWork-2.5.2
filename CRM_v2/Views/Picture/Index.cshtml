@@ -1,0 +1,31 @@
+﻿@model CRM_v2.Models.PictureModel
+@{
+    ViewBag.Title = "Gallery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Gallery</h2>
+
+<table class="table" >
+    @{foreach (var image in Model)
+    {
+        <tr >
+            <td class="col-md-2">
+                <img style="border:thick; border-radius:5px; border-color:darkgray;"  width="150" src="~/Images/@image.Path" />
+            </td>
+            <td class="col-md-2">
+                <span class="description">@image.Description</span>
+            </td>
+            <td class="col-md-8">
+            </td>
+        </tr>
+    }}
+</table>
+<div class="form-horizontal">
+    <div>
+        <p style="font-weight: bold; color:red">@{ @ViewBag.Comment  } </p>
+    </div>
+    @Html.ActionLink("Add picture", "Upload")
+</div>
+
+

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Upload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload</h2>
+
+
+@using (Html.BeginForm("UpLoad", "Picture", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div>
+        The default upload file limit is 4096 KB which is approximately 4MB<br />       
+    </div>
+
+
+    <fieldset>
+        <h4>Add picture</h4>
+        <p>
+            <div class="editor-field" style="margin-bottom:auto;">
+                <input type="file" name="hpf" />
+            </div>
+        </p>
+        <p>
+        <h4 >Add description</h4>
+            <div style="margin:auto">
+                <input type="text" name="description" />
+            </div>
+        </p>
+    </fieldset>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    <input type="submit" name="Submit" id="SubmitSingle" value="SavePicture" class="btn btn-default" />
+                </div>
+            </div>
+
+            }
+
+            <div>
+                @Html.ActionLink("Back to List", "Index")
+            </div>

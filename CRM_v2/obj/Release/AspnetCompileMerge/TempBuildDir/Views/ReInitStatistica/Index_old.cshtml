@@ -1,0 +1,23 @@
+﻿@model IEnumerable<CRM_v2.Models.UsrStat>
+
+@{
+    ViewBag.Title = "Реініціалізація статистики";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Реініціалізація статистики</h2>
+<p>
+    @Html.ActionLink("Назад до Адміністрування", "Index", "Adminka")
+</p>
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+                <div class="form-actions no-color">    
+                    <input type="submit" value="Реініціалізувати" class="openDialog" />             
+                  
+                </div>
+             
+          
+}
+

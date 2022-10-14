@@ -1,0 +1,139 @@
+﻿@model CRM_v2.Models.CtrlActStat
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CtrlActStat</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Action)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Action)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Controller)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Controller)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ActionParams)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ActionParams)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OriginalUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OriginalUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserHost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserHost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserAgent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserAgent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HttpMtthod)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HttpMtthod)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Form)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Form)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Query)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Query)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Referer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Referer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hearders)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hearders)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cookies)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cookies)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartExecution)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartExecution)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FinishExecution)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FinishExecution)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+    @Html.ActionLink("Back to List", "Index")
+</p>

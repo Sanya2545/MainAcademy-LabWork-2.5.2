@@ -1,0 +1,74 @@
+﻿@model IEnumerable<CRM_v2.Models.AspNetUser>
+
+@{
+    ViewBag.Title = "Доступ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @*@Html.ActionLink("Create New", "Create")*@
+    @Html.ActionLink("Назад до Адміністрування", "Index", "Adminka")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.SecurityStamp)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.LockoutEndDateUtc)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.LockoutEndDateUtc)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.LockoutEnabled)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccessFailedCount)
+        </th>
+       <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+                <td>
+            @Html.DisplayFor(modelItem => item.SecurityStamp)
+        </td>
+        <td>
+            @if (item.LockoutEndDateUtc >= DateTime.UtcNow)    
+            {
+               
+               @Html.DisplayFor(modelItem => item.LockoutEndDateUtc)
+            }     
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.LockoutEndDateUtc)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.LockoutEnabled)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccessFailedCount)
+        </td>
+        <td>
+            @Html.ActionLink("Редагувати", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Деталі", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Заблокувати", "UsrLock", new { id = item.Id }) |
+            @Html.ActionLink("Розблокувати", "UsrUnlock", new { id = item.Id })        
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+        </td>
+    </tr>
+}
+
+</table>

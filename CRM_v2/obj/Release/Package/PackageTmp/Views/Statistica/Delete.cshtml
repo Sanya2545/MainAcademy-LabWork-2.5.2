@@ -1,0 +1,97 @@
+﻿@model CRM_v2.Models.UsrStat
+
+@{
+    ViewBag.Title = "Видалити";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Видалити</h2>
+
+<h3>Ви впевнені, що бажаєте видалтити цей запис?</h3>
+<div>
+    <h4>UsrStat</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastLogin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastLogin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastRole)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastRole)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isEnabled)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isEnabled)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastAction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastAction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastActionTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastActionTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ModTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ModTime)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Назад до списку", "Index")
+        </div>
+    }
+</div>

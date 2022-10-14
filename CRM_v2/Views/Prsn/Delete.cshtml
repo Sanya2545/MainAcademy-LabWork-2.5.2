@@ -1,0 +1,102 @@
+﻿@model CRM_v2.Models.AspNetUser
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>AspNetUser</h4>
+    <hr />
+    <dl style="padding-bottom: inherit" class="dl-horizontal">
+       
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+       
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.PasswordHash)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.PasswordHash)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.SecurityStamp)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.SecurityStamp)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.isClient)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.isClient)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.isStaff)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.isStaff)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.AprClient)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.AprClient)
+        </dd>
+
+        <dt style="padding-bottom: inherit">
+            @Html.DisplayNameFor(model => model.AprStaff)
+        </dt>
+
+        <dd style="padding-bottom: inherit">
+            @Html.DisplayFor(model => model.AprStaff)
+        </dd>
+
+    </dl>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Delete" class="btn btn-default" />
+        </div>
+    </div>
+        
+
+    <div class="form-horizontal">
+        <div>
+            <p style="font-weight: bold; color:red">@{ @ViewBag.Comment  } </p>
+        </div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+        }
+    </div>
+</div>

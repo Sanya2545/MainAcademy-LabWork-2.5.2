@@ -1,0 +1,92 @@
+﻿@model IEnumerable<CRM_v2.Models.AspNetUsers_shadow>
+
+@{
+    ViewBag.Title = "Користувачі";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Керування користувачами</h2>
+<p>
+@Html.ActionLink("Назад до Адміністрування", "Index", "Adminka")
+</p>
+<table class=" table table-striped table-condensed table-bordered">
+    <tr>
+        <th class="col-md-offset-0 col-md-1">
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.isClient)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.isStaff)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.AprClient)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.AprStaff)
+        </th>
+        @*<th class="col-md-1">
+                @Html.DisplayNameFor(model => model.PersId)
+            </th>*@
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.Checked)
+        </th>
+        <th class="col-md-1">
+            @Html.DisplayNameFor(model => model.CheckDate)
+        </th>
+        <th class="col-md-6"></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="col-md-offset-0 col-md-1">
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.isClient)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.isStaff)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.AprClient)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.AprStaff)
+            </td>
+            @*<td class="col-md-1">
+                    @Html.DisplayFor(modelItem => item.PersId)
+                </td>*@
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.Checked)
+            </td>
+            <td class="col-md-1">
+                @Html.DisplayFor(modelItem => item.CheckDate)
+            </td>
+            <td class="col-md-6">
+                @Html.ActionLink("Редагувати", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Деталі", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Видалити", "Delete", new { id = item.Id })  |
+                @Html.ActionLink("Скинути пароль", "ResetPassword", new { id = item.Id })
+
+
+
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+<p>
+    @*@Html.ActionLink("Вийти", "Logoff")*@
+    @Html.ActionLink("Редагувати доступ","MyAccess") 
+</p>

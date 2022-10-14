@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRM_authModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AspNetUsers_shadow">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SecurityStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Discriminator" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="isClient" Type="Boolean" />
+    <Property Name="isStaff" Type="Boolean" />
+    <Property Name="AprClient" Type="Boolean" />
+    <Property Name="AprStaff" Type="Boolean" />
+    <Property Name="PersId" Type="Int32" />
+    <Property Name="Checked" Type="Boolean" />
+    <Property Name="CheckDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="CRM_authEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AspNetUsers_shadow" EntityType="Self.AspNetUsers_shadow" />
+  </EntityContainer>
+</Schema>
